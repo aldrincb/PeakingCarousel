@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "PeakingCarousel"
-  s.version          = "0.0.1"
+  s.version          = "0.0.2"
   s.summary          = "PeakingCarousel is a Fiverr-like onboarding view."
   s.description      = <<-DESC
                        PeakingCarousel is a Fiverr-like onboarding view.

@@ -9,19 +9,19 @@
 
 Pod::Spec.new do |s|
   s.name             = "PeakingCarousel"
-  s.version          = "0.1.0"
-  s.summary          = "A short description of PeakingCarousel."
+  s.version          = "0.0.2"
+  s.summary          = "PeakingCarousel is a Fiverr-like onboarding view."
   s.description      = <<-DESC
-                       An optional longer description of PeakingCarousel
+                       PeakingCarousel is a Fiverr-like onboarding view.
 
                        * Markdown format.
                        * Don't worry about the indent, we strip it!
                        DESC
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/PeakingCarousel"
+  s.homepage         = "https://github.com/aldrincb/PeakingCarousel"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "aldrincb" => "aldrin.balisi@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/PeakingCarousel.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/aldrincb/PeakingCarousel.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform     = :ios, '7.0'

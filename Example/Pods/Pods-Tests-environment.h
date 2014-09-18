@@ -27,8 +27,8 @@
 // PeakingCarousel
 #define COCOAPODS_POD_AVAILABLE_PeakingCarousel
 #define COCOAPODS_VERSION_MAJOR_PeakingCarousel 0
-#define COCOAPODS_VERSION_MINOR_PeakingCarousel 1
-#define COCOAPODS_VERSION_PATCH_PeakingCarousel 0
+#define COCOAPODS_VERSION_MINOR_PeakingCarousel 0
+#define COCOAPODS_VERSION_PATCH_PeakingCarousel 2
 
 // Specta
 #define COCOAPODS_POD_AVAILABLE_Specta
