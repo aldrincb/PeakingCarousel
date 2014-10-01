@@ -36,7 +36,7 @@
 
 - (UIView *)carousel:(ABPeakingCarouselView *)carousel viewAtIndex:(NSUInteger)index
 {
-    return [[UIImageView alloc] initWithImage:[UIImage imageNamed:[NSString stringWithFormat:@"c%d",index]]];
+    return [[UIImageView alloc] initWithImage:[UIImage imageNamed:[NSString stringWithFormat:@"c%lu",(unsigned long)index]]];
 }
 
 - (NSAttributedString *)carousel:(ABPeakingCarouselView *)carousel titleAtIndex:(NSUInteger)index
